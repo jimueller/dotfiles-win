@@ -2,3 +2,5 @@ ls=dir /B $1
 ll=dir /A
 la=dir /A
 clear=cls
+\=cd \
+~=cd %USERPROFILE%

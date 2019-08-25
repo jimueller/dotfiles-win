@@ -125,6 +125,7 @@
       "closeOnExit": false,
       "colorScheme": "Campbell",
       "commandline": "cmd.exe",
+      "startingDirectory": "%USERPROFILE%",
       "cursorColor": "#FFFFFF",
       "cursorShape": "bar",
       "fontFace": "Consolas",
