@@ -6,8 +6,8 @@ Dotfiles for Windows
 
 ## Ubuntu Logo
 
-Ubuntu Logos from [Ubuntu Design Circle of Friends set for web](https://design.ubuntu.com/downloads/)
-[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+- Ubuntu Logos from [Ubuntu Design Circle of Friends set for web](https://design.ubuntu.com/downloads/)
+- [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## PowerShell Logos
 
